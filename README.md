@@ -5,7 +5,9 @@ Embedded-ish Software Architect
 ## I current work for:
 
 [Hypergiant](www.hypergiant.com) as a Solutions Architect.  We do AI/ML work for space and defense.  Want to put a Raspberry Pi or Jetson Nano into space?  Need help writing ground station software? We can help.
+
 [Wilderness Labs](www.wildernesslabs.co) as a...no idea what my title is.  I do a lot of work that bridges NuttX to Mono, also do a lot of testing and working on Meadow for Linux.
+
 [Solution Family](www.solution-family.com) as a Cofounder.  We do industrial and process automation stuff.  Way too much to explain here, but basically adding visibility to plant floor quality and OEE type stuff.
 
 ## I work on:
